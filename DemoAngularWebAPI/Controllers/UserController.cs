@@ -1,12 +1,12 @@
-﻿using System;
+﻿using DemoAngularWebAPI.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using TestAngularAPI.Models;
 
-namespace TestAngularAPI.Controllers
+namespace DemoAngularWebAPI.Controllers
 {
     public class UserController : ApiController
     {

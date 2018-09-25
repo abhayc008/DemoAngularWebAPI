@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace TestAngularAPI.Models
+namespace DemoAngularWebAPI.Models
 {
     public class User :  BaseClass
     {
